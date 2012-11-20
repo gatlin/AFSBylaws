@@ -130,9 +130,9 @@ for the transaction of business.
 ### 3.8 Voting and Proxy
 
 Directors shall be present in person to vote, provided that with reasonable
-notice to the Board Chair, a Director may attend any meeting and vote by
-electronic means in which all persons participating in the meeting can hear or
-communicate with each other simultaneously. Proxy voting shall not be allowed.
+notice to the Chair, a Director may attend any meeting and vote by electronic
+means in which all persons participating in the meeting can hear or communicate
+with each other simultaneously. Proxy voting shall not be allowed.
 
 ### 3.9 Consent
 
