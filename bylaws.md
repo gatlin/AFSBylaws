@@ -17,7 +17,8 @@ interest to the community.
 
 ### 0.2 Offices
 
-AFS shall have a registered office, and may have other offices at such places as
+AFS shall have a registered office, and may have other offices at such places
+as
 the Board of Directors may from time to time determine, or as the activities of
 AFS may require.
 
@@ -27,7 +28,8 @@ AFS may require.
 ### 1.0 Members
 
 There is hereby established a category of members who shall be members of AFS,
-and who shall have voting rights in respect thereof as provided by these Bylaws.
+and who shall have voting rights in respect thereof as provided by these
+Bylaws.
 All members in this category shall be in good standing, and shall meet such
 other criteria as are adopted from time to time by the Board. Each member in
 this category of membership shall be entitled to one (1) vote.
@@ -40,9 +42,27 @@ or by the Board.
 
 ### 1.2 Resignation
 
-Any member may resign by giving written or verbal notice to the Secretary of the
+Any member may resign by giving written or verbal notice to the Secretary of
+the
 Board. The member may still be held accountable for his or her outstanding
 responsibilities.
+
+### 1.3 Supermajority
+
+For the purposes of these Bylaws, a supermajority of members is defined as a
+division of members such that for each member not in the division there are at
+least two members who are in the division.
+
+### 1.4 Suspension, Termination, and Appeal
+
+The membership, by an affirmative vote of a supermajority of all members, may
+suspend or terminate a member with cause at a meeting whose notice shall
+include such proposed suspension or termination. The board shall notify the
+member promptly of his or her suspension or termination. Any member may appeal
+his or her suspension or termination by filing a written appeal with the
+secretary of the Board within thirty (30) days of the date the Board mailed the
+notice of suspension or termination. The Board shall consider the appeal at the
+next regularly scheduled meeting. The decision of the Board shall be final.
 
 2. Meeting and Voting
 ---
@@ -51,12 +71,12 @@ responsibilities.
 
 Notice of the meeting of the members shall be given not less than two (2) weeks
 nor more than four (4) weeks prior to the date of the meeting. Notice of any
-other meeting of AFS shall be given at least twenty-four (24) hours prior to the
-date of the meeting. Notice may be given personally, by mail to the last known
-address of any member, or by electronic means with or without proof of receipt
-as determined by the Board. Meetings will convene whenever a majority of members
-can meet at a location and time that is set at least twenty-four (24) hours
-prior to said meeting.
+other meeting of AFS shall be given at least twenty-four (24) hours prior to
+the date of the meeting. Notice may be given personally, by mail to the last
+known address of any member, or by electronic means with or without proof of
+receipt as determined by the Board. Meetings will convene whenever a majority of
+members can meet at a location and time that is set at least twenty-four (24)
+hours prior to said meeting.
 
 ### 2.1 Quorum
 
@@ -65,10 +85,10 @@ quorum at any regular or special meeting of AFS.
 
 ### 2.2 Voting and Proxy
 
-Members shall be present in person to vote. Provided that with reasonable notice
-to the meeting chair, a member may attend any meeting and vote by electronic
-means in which all persons participating in the meeting can hear or communicate
-with each other simultaneously.
+Members shall be present in person to vote. Provided that with reasonable
+notice to the meeting chair, a member may attend any meeting and vote by
+electronic means in which all persons participating in the meeting can hear or
+communicate with each other simultaneously.
 
 3. Board of Directors
 ---
@@ -81,7 +101,7 @@ as are permitted by statute, the Articles of Incorporation, and these Bylaws.
 
 ### 3.1 Number
 
-The Board shall consist of three (3) directors chosen by the members. 
+The Board shall consist of three (3) directors chosen by the members.
 
 ### 3.2 Term of Office
 
@@ -89,8 +109,9 @@ The term of office for Directors shall be six (6) months. Directors may be
 re-appointed or re-elected to additional terms for up to three (3) years, after
 which the Director shall be ineligible for reelection to the Board for a period
 of not less than one (1) year. Directors shall serve until the expiration of
-their term, resignation, disqualification, or removal from office as provided in
-these Bylaws.
+their term, resignation, disqualification, or removal from office as provided
+in these Bylaws.
+
 ### 3.3 Qualifications and Election
 
 Directors shall be elected at the conclusion of the preceding Directors term.
@@ -99,11 +120,13 @@ nominees shall be members in good standing.
 
 ### 3.4 Removal and Resignation
 
-Any Director may be removed, either for cause or without cause at any regular or
+Any Director may be removed, either for cause or without cause at any regular
+or
 special meeting of the members by an affirmative vote of a majority of the
-number of Directors fixed by these Bylaws, provided that the notice of the
-meeting shall state the removal of Directors is to be considered. Any officer or
-Director may resign at any time by notifying the Board.
+members, provided that the notice of the meeting shall state the removal of
+Directors is to be considered. Any officer or Director may resign at any time
+by
+notifying the Board.
 
 ### 3.5 Regular Meetings
 
@@ -124,7 +147,8 @@ meetings may be called by the Chair, or by written request of fifty percent
 ### 3.7 Quorum
 
 At all meetings of the Board, the presence of a majority of the number of
-Directors in the office shall be necessary and sufficient to constitute a quorum
+Directors in the office shall be necessary and sufficient to constitute a
+quorum
 for the transaction of business.
 
 ### 3.8 Voting and Proxy
@@ -177,7 +201,8 @@ in these Bylaws, or as determined from time to time by the Board.
 
 ### 4.3 Simultaneous Offices
 
-No person shall hold more than one of the offices designated in 4.1 above at the
+No person shall hold more than one of the offices designated in 4.1 above at
+the
 same time unless the Board shall first declare an emergency, and designate an
 officer to perform the duties created by the vacancy of another officer. In no
 case shall the Chair and the Secretary be the same person.
@@ -185,7 +210,8 @@ case shall the Chair and the Secretary be the same person.
 ### 4.4 Chair
 
 The Chair shall have general supervision of the tangible affairs of AFS; shall
-preside at all meetings of the Board and membership; and shall sign all official
+preside at all meetings of the Board and membership; and shall sign all
+official
 documents on behalf of AFS. All powers and duties of the Chair shall be subject
 to the provisions of the Articles of Incorporation and these Bylaws, and to
 review and confirmation by the Board in such a manner as is from time to time
@@ -196,15 +222,19 @@ determined by the Board.
 The Secretary shall keep and maintain all records of AFS unless otherwise
 specified in these Bylaws; in the absence of the Chair, perform the duties of
 Chair of AFS; shall see that proper notice is given for all meetings of the
-Board and members; shall keep, or cause to be kept, accurate and true records of
-all proceedings of meetings of the Board; shall post all minutes within five (5)
+Board and members; shall keep, or cause to be kept, accurate and true records
+of
+all proceedings of meetings of the Board; shall post all minutes within five
+(5)
 days after the meeting of the Board and members; shall ensure that minutes of
 the previous meeting(s), both of the Board and members, and all related
 documents are sent to members at least five (5) days prior to the next meeting;
-and in general, shall exercise all powers usually pertaining to the Secretary of
+and in general, shall exercise all powers usually pertaining to the Secretary
+of
 a corporation. All powers and duties of the Secretary shall be subject to the
 provisions of the Articles of Incorporation and these Bylaws, and to review and
-confirmation by the Board in such a manner as is from time to time determined by
+confirmation by the Board in such a manner as is from time to time determined
+by
 the Board.
 
 ### 4.6 Treasurer
@@ -221,12 +251,14 @@ applicable to AFS; shall recommend depositories and financial institutions to
 the Board; shall have care and custody of all monies, funds and securities of
 AFS and shall ensure that all funds are deposited in such depositories as are
 selected by the Board; shall be responsible for the collection of all accounts
-payable to AFS; shall keep or cause to be kept full and accurate accounts of all
+payable to AFS; shall keep or cause to be kept full and accurate accounts of
+all
 expenditures and disbursements by AFS; shall have the power to endorse all
 checks, drafts, notes or other financial instruments payable to AFS; shall give
 or cause to be given proper receipts for all payments to AFS; and in general,
 shall exercise all powers usually pertaining to the treasurer or a corporation.
-All powers and duties of the Treasurer shall be subject to the provisions of the
+All powers and duties of the Treasurer shall be subject to the provisions of
+the
 Articles of Incorporation and these Bylaws, and to review and confirmation by
 the Board as determined from time to time by the Board.
 
@@ -236,7 +268,8 @@ the Board as determined from time to time by the Board.
 ### 5.0 Dividends Prohibited
 
 No part of the net income of AFS shall inure to the benefit of any private
-shareholder or individual; no dividends shall be paid; and no part of the income
+shareholder or individual; no dividends shall be paid; and no part of the
+income
 of AFS shall be distributed to its officers or directors.
 
 ### 5.1 Loans to Officers and Directors
@@ -256,7 +289,8 @@ Board may from time to time determine, or as the activities of AFS may require.
 
 ### 5.4 Parliamentary Authority
 
-The most recent edition of Roberts Rules of Order-Newly Revised shall govern the
+The most recent edition of Roberts Rules of Order-Newly Revised shall govern
+the
 conduct of business in all cases in which they are applicable, and not in
 conflict with the Articles of Incorporation or these Bylaws.
 
