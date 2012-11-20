@@ -28,10 +28,9 @@ AFS may require.
 
 There is hereby established a category of members who shall be members of AFS,
 and who shall have voting rights in respect thereof as provided by these Bylaws.
-All members in this category of membership shall be members in good standing,
-and shall meet such other criteria as are adopted from time to time by the
-Board. Each member in this category of membership shall be entitled to one (1)
-vote.
+All members in this category shall be in good standing, and shall meet such
+other criteria as are adopted from time to time by the Board. Each member in
+this category of membership shall be entitled to one (1) vote.
 
 ### 1.1 Eligibility
 
