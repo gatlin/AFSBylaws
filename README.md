@@ -5,6 +5,7 @@ Written and Edited by Caroline DeBruhl <cdebruhl@gmail.com> and Gatlin Johnson
 <rokenrol@gmail.com>
 
 0. What is this?
+---
 
 This repository holds the bylaws for [Austin Free Skool][1], a non-profit
 organization which promotes educational events by and for the Austin community.
@@ -17,10 +18,12 @@ we are putting our bylaws on a public git repository. We hope these bylaws are
 of use or interest!
 
 1. License
+---
 
 See LICENSE.txt.
 
 2. Aren't bylaws and hierarchy antithetical to anarchist free skools?
+---
 
 Bylaws no, hierarchy yes. If you read carefully, these bylaws delineate very
 specific and limited responsibilities to the board of directors, who are also
@@ -37,6 +40,7 @@ are essentially the meeting chair, the minutes taker, and the holder of the
 Golden Shoebox containing our capital.
 
 3. Why be a tax-exempt non-profit? Why not just ... do your thing?
+---
 
 We want to be able to accept donations, seek grants, and manage our collective
 property responsibly. Even without state coercion we would be uncomfortable
@@ -49,6 +53,7 @@ some form or fashion regardless of statute toward that end.
 
 
 4. Where can I find out more?
+---
 
 [Go to our website!][1] Or, send an email to <austinfreeskool@gmail.com>.
 
