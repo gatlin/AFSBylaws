@@ -13,8 +13,7 @@ The name of the Corporation is Austin Free Skool, hereinafter called AFS.
 Austin Free Skool is a not-for-profit, collectively owned and run educational
 organization based principally in Austin, Texas. Its motivation is to
 democratize education by providing a range of interesting classes open to all
-students and helping teachers to organize said classes. All other details are
-ancillary and negotiable but not these.
+students and helping teachers to organize said classes.
 
 ### 0.2 Offices
 
