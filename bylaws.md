@@ -348,8 +348,8 @@ The initial Bylaws shall be adopted by the Board of Directors.
 
 ### 8.1 Amendments
 
-These Bylaws may be altered, amended, or repealed or new Bylaws adopted at any
-time by the members pursuant to the provisions of these Bylaws.
+These Bylaws may be altered, amended, or repealed or new may be Bylaws adopted
+at any time by the members pursuant to the provisions of these Bylaws.
 
 ### 8.2 Proposal of Amendment
 
