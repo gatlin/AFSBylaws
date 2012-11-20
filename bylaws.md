@@ -62,7 +62,8 @@ prior to said meeting.
 
 A majority (50% + 1) of all voting members in good standing shall constitute a
 quorum at any regular or special meeting of AFS.
-2.2 Voting and Proxy
+
+### 2.2 Voting and Proxy
 
 Members shall be present in person to vote. Provided that with reasonable notice
 to the meeting chair, a member may attend any meeting and vote by electronic
