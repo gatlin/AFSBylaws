@@ -18,9 +18,14 @@ interest to the community.
 ### 0.2 Offices
 
 AFS shall have a registered office, and may have other offices at such places
-as
-the Board of Directors may from time to time determine, or as the activities of
-AFS may require.
+as the Board of Directors may from time to time determine, or as the activities
+of AFS may require.
+
+### 0.3 Terms
+
+For the purposes of this document, a supermajority of members is defined as a
+group of members who vote a specific way on any given issue such that, for each
+member not in the group, there are two (2) who are in it.
 
 1. Membership
 ---
@@ -29,10 +34,9 @@ AFS may require.
 
 There is hereby established a category of members who shall be members of AFS,
 and who shall have voting rights in respect thereof as provided by these
-Bylaws.
-All members in this category shall be in good standing, and shall meet such
-other criteria as are adopted from time to time by the Board. Each member in
-this category of membership shall be entitled to one (1) vote.
+Bylaws. All members in this category shall be in good standing, and shall meet
+such other criteria as are adopted from time to time by the Board. Each member
+in this category of membership shall be entitled to one (1) vote.
 
 ### 1.1 Eligibility
 
@@ -43,17 +47,11 @@ or by the Board.
 ### 1.2 Resignation
 
 Any member may resign by giving written or verbal notice to the Secretary of
-the
-Board. The member may still be held accountable for his or her outstanding
+the Board. The member may still be held accountable for his or her outstanding
 responsibilities.
 
-### 1.3 Supermajority
 
-For the purposes of these Bylaws, a supermajority of members is defined as a
-division of members such that for each member not in the division there are at
-least two members who are in the division.
-
-### 1.4 Suspension, Termination, and Appeal
+### 1.3 Suspension, Termination, and Appeal
 
 The membership, by an affirmative vote of a supermajority of all members, may
 suspend or terminate a member with cause at a meeting whose notice shall
@@ -121,12 +119,10 @@ nominees shall be members in good standing.
 ### 3.4 Removal and Resignation
 
 Any Director may be removed, either for cause or without cause at any regular
-or
-special meeting of the members by an affirmative vote of a majority of the
+or special meeting of the members by an affirmative vote of a majority of the
 members, provided that the notice of the meeting shall state the removal of
 Directors is to be considered. Any officer or Director may resign at any time
-by
-notifying the Board.
+by notifying the Board.
 
 ### 3.5 Regular Meetings
 
@@ -148,8 +144,7 @@ meetings may be called by the Chair, or by written request of fifty percent
 
 At all meetings of the Board, the presence of a majority of the number of
 Directors in the office shall be necessary and sufficient to constitute a
-quorum
-for the transaction of business.
+quorum for the transaction of business.
 
 ### 3.8 Voting and Proxy
 
@@ -202,19 +197,17 @@ in these Bylaws, or as determined from time to time by the Board.
 ### 4.3 Simultaneous Offices
 
 No person shall hold more than one of the offices designated in 4.1 above at
-the
-same time unless the Board shall first declare an emergency, and designate an
-officer to perform the duties created by the vacancy of another officer. In no
-case shall the Chair and the Secretary be the same person.
+the same time unless the Board shall first declare an emergency, and designate
+an officer to perform the duties created by the vacancy of another officer. In
+no case shall the Chair and the Secretary be the same person.
 
 ### 4.4 Chair
 
 The Chair shall have general supervision of the tangible affairs of AFS; shall
 preside at all meetings of the Board and membership; and shall sign all
-official
-documents on behalf of AFS. All powers and duties of the Chair shall be subject
-to the provisions of the Articles of Incorporation and these Bylaws, and to
-review and confirmation by the Board in such a manner as is from time to time
+official documents on behalf of AFS. All powers and duties of the Chair shall be
+subject to the provisions of the Articles of Incorporation and these Bylaws, and
+to review and confirmation by the Board in such a manner as is from time to time
 determined by the Board.
 
 ### 4.5 Secretary
@@ -223,19 +216,15 @@ The Secretary shall keep and maintain all records of AFS unless otherwise
 specified in these Bylaws; in the absence of the Chair, perform the duties of
 Chair of AFS; shall see that proper notice is given for all meetings of the
 Board and members; shall keep, or cause to be kept, accurate and true records
-of
-all proceedings of meetings of the Board; shall post all minutes within five
-(5)
-days after the meeting of the Board and members; shall ensure that minutes of
+of all proceedings of meetings of the Board; shall post all minutes within five
+(5) days after the meeting of the Board and members; shall ensure that minutes of
 the previous meeting(s), both of the Board and members, and all related
 documents are sent to members at least five (5) days prior to the next meeting;
 and in general, shall exercise all powers usually pertaining to the Secretary
-of
-a corporation. All powers and duties of the Secretary shall be subject to the
+of a corporation. All powers and duties of the Secretary shall be subject to the
 provisions of the Articles of Incorporation and these Bylaws, and to review and
 confirmation by the Board in such a manner as is from time to time determined
-by
-the Board.
+by the Board.
 
 ### 4.6 Treasurer
 
@@ -252,14 +241,12 @@ the Board; shall have care and custody of all monies, funds and securities of
 AFS and shall ensure that all funds are deposited in such depositories as are
 selected by the Board; shall be responsible for the collection of all accounts
 payable to AFS; shall keep or cause to be kept full and accurate accounts of
-all
-expenditures and disbursements by AFS; shall have the power to endorse all
+all expenditures and disbursements by AFS; shall have the power to endorse all
 checks, drafts, notes or other financial instruments payable to AFS; shall give
 or cause to be given proper receipts for all payments to AFS; and in general,
 shall exercise all powers usually pertaining to the treasurer or a corporation.
 All powers and duties of the Treasurer shall be subject to the provisions of
-the
-Articles of Incorporation and these Bylaws, and to review and confirmation by
+the Articles of Incorporation and these Bylaws, and to review and confirmation by
 the Board as determined from time to time by the Board.
 
 5. Miscellaneous Provisions
@@ -269,8 +256,7 @@ the Board as determined from time to time by the Board.
 
 No part of the net income of AFS shall inure to the benefit of any private
 shareholder or individual; no dividends shall be paid; and no part of the
-income
-of AFS shall be distributed to its officers or directors.
+income of AFS shall be distributed to its officers or directors.
 
 ### 5.1 Loans to Officers and Directors
 
@@ -290,8 +276,7 @@ Board may from time to time determine, or as the activities of AFS may require.
 ### 5.4 Parliamentary Authority
 
 The most recent edition of Roberts Rules of Order-Newly Revised shall govern
-the
-conduct of business in all cases in which they are applicable, and not in
+the conduct of business in all cases in which they are applicable, and not in
 conflict with the Articles of Incorporation or these Bylaws.
 
 6. Dissolution
@@ -317,16 +302,16 @@ or former director or officer, or current or former employee.
 ### 7.0 Indemnification
 
 AFS shall indemnify an officer or director of AFS against reasonable expenses
-incurred by the director in connection with any proceeding in which the
-director is named as a defendant or respondent because he or she is, or was, a
-director of AFS, subject to the limitations in the Articles of Incorporation
-and these Bylaws.
+incurred by the director in connection with any proceeding in which the director
+is named as a defendant or respondent because he or she is, or was, a director
+of AFS, subject to the limitations in the Articles of Incorporation and these
+Bylaws.
 
 ### 7.1 Conditions
 
-shall have no obligation to indemnify an officer or director if the director is
-found liable for: a) a breach of the director’s duty of loyalty to AFS; b) an
-act of omission not in good faith that constitutes a breach of duty of the
+AFS shall have no obligation to indemnify an officer or director if the director
+is found liable for: a) a breach of the director’s duty of loyalty to AFS; b)
+an act of omission not in good faith that constitutes a breach of duty of the
 director to AFS; c) an act or omission that involves intentional miscondunct or
 an intentional violation of the law; d) a transaction from which the director
 received an improper benefit, whether or not the benefit resulted from an
