@@ -65,9 +65,9 @@ quorum at any regular or special meeting of AFS.
 2.2 Voting and Proxy
 
 Members shall be present in person to vote. Provided that with reasonable notice
-to the meeting chairperson, a member may attend any meeting and vote by
-electronic means in which all persons participating in the meeting can hear or
-communicate with each other simultaneously.
+to the meeting chair, a member may attend any meeting and vote by electronic
+means in which all persons participating in the meeting can hear or communicate
+with each other simultaneously.
 
 3. Board of Directors
 ---
@@ -117,8 +117,8 @@ Special meetings of the Board shall be held at such places and at such times as
 may from time to time be determined by the Board, subject to all provisions for
 notice, or waiver of notice, as provided in these Bylaws, any and all business
 may be transacted at any regular or special meeting of the Board. Special
-meetings may be called by the Chairperson, or by written request of fifty
-percent (50%) of the Directors in office.
+meetings may be called by the Chair, or by written request of fifty percent
+(50%) of the Directors in office.
 
 ### 3.7 Quorum
 
@@ -129,7 +129,7 @@ for the transaction of business.
 ### 3.8 Voting and Proxy
 
 Directors shall be present in person to vote, provided that with reasonable
-notice to the Board Chairperson, a Director may attend any meeting and vote by
+notice to the Board Chair, a Director may attend any meeting and vote by
 electronic means in which all persons participating in the meeting can hear or
 communicate with each other simultaneously. Proxy voting shall not be allowed.
 
@@ -161,8 +161,7 @@ reimbursement adopted by the Board.
 
 ### 4.0 Elected Officers
 
-The elected officers of AFS shall be a Chairperson, a Secretary, a
-Member-At-Large, and a Treasurer.
+The elected officers of AFS shall be a Chair, a Secretary, and a Treasurer.
 
 ### 4.1 Election
 
@@ -180,7 +179,7 @@ in these Bylaws, or as determined from time to time by the Board.
 No person shall hold more than one of the offices designated in 4.1 above at the
 same time unless the Board shall first declare an emergency, and designate an
 officer to perform the duties created by the vacancy of another officer. In no
-case shall the Chairperson and the Secretary be the same person.
+case shall the Chair and the Secretary be the same person.
 
 ### 4.4 Chair
 
@@ -282,23 +281,23 @@ or former director or officer, or current or former employee.
 
 ### 7.0 Indemnification
 
-The Corporation shall indemnify an officer or director of the Corporation
-against reasonable expenses incurred by the director in connection with any
-proceeding in which the director is named as a defendant or respondent because
-he or she is, or was, a director of the Corporation, subject to the limitations
-in the Articles of Incorporation and these Bylaws.
+AFS shall indemnify an officer or director of AFS against reasonable expenses
+incurred by the director in connection with any proceeding in which the
+director is named as a defendant or respondent because he or she is, or was, a
+director of AFS, subject to the limitations in the Articles of Incorporation
+and these Bylaws.
 
 ### 7.1 Conditions
 
-The Corporation shall have no obligation to indemnify an officer or director if
-the director is found liable for: a) a breach of the director’s duty of loyalty
-to the Corporation; b) an act of omission not in good faith that constitutes a
-breach of duty of the director to the Corporation; c) an act or omission that
-involves intentional misconduct or an intentional violation of the law; d) a
-transaction from which the director received an improper benefit, whether or not
-the benefit resulted from an action taken within the scope of the director’s
-office; or, e) an act or omission for which the liability of a director is
-expressly provided for by an applicable statute.
+shall have no obligation to indemnify an officer or director if the director is
+found liable for: a) a breach of the director’s duty of loyalty to AFS; b) an
+act of omission not in good faith that constitutes a breach of duty of the
+director to AFS; c) an act or omission that involves intentional miscondunct or
+an intentional violation of the law; d) a transaction from which the director
+received an improper benefit, whether or not the benefit resulted from an
+action taken within the scope of the director’s office; or e) an act or
+omission for which the liability of a director is expressly provided for by an
+applicable statute.
 
 ### 7.2 Limits
 
@@ -319,17 +318,17 @@ time by the members pursuant to the provisions of these Bylaws.
 
 ### 8.2 Proposal of Amendment
 
-Any member of the Corporation in good standing may propose an amendment to these
-areas of the Bylaws provided that the notice of the meeting shall state that an
+Any member of AFS in good standing may propose an amendment to these areas of
+the Bylaws provided that the notice of the meeting shall state that an
 amendment is to be considered.
 
 ### 8.3 Notice and Approval of Amendments Proposed by the Membership
 
 Amendments to areas of these Bylaws reserved to the membership may be approved
-at any meeting of the Corporation. The notice of the meeting shall state that
-amendments to the Bylaws are to be considered, and shall include a copy of the
-proposed amendments. Approval shall require an affirmative vote of three fifths
-(3/5) of the members in good standing voting on the amendment.
+at any meeting of AFS. The notice of the meeting shall state that amendments to
+the Bylaws are to be considered, and shall include a copy of the proposed
+amendments. Approval shall require an affirmative vote of three fifths (3/5) of
+the members in good standing voting on the amendment.
 
 ### 8.4 Effective Date
 
