@@ -22,12 +22,37 @@ of use or interest!
 
 See LICENSE.txt.
 
-2. Aren't bylaws and hierarchy antithetical to anarchist free skools?
+2. Summary
+---
+
+1. Members set membership policy;
+2. Meetings require at least 50% of members to be present;
+3. You can Skype in if necessary;
+4. There are three officers who are also on the board of directors:
+    * Chair - runs the meetings, speaks on behalf of the organization, gets
+      sued;
+    * Secretary - takes minutes, manages archives and documents;
+    * Treasurer - keeps the books, manages money, deals with tax stuff;
+5. Only the members can set organization policy or amend the bylaws;
+6. Members can remove officers from their positions;
+7. Members can remove members who are detrimental to Free Skool;
+8. Decisions at membership meetings require a majority, except termination and
+   suspension votes which require a supermajority;
+9. Directors serve 6 month terms;
+10. Directors must make 50% of the Board meetings during their terms;
+11. Nobody gets paid anything, ever, for any reason. Unless it's a
+    reimbursement;
+12. Directors can only be one Director, not multiple;
+13. Basically we want to be as legally flat as we can be.
+
+3. Aren't bylaws and hierarchy antithetical to anarchist free skools?
 ---
 
 Bylaws no, hierarchy yes. If you read carefully, these bylaws delineate very
 specific and limited responsibilities to the board of directors, who are also
-simply officers in the organization.
+simply officers in the organization. Having three positions of limited
+responsibility for legal and pragmatic reasons does not violate our definition
+of flat organization.
 
 As a cooperatively run organization we believe in voluntary associations free
 of coercion and oppression. Pragmatically, the state of Texas requires some
@@ -39,7 +64,7 @@ set out to de-claw the authority normally given to a board of directors. They
 are essentially the meeting chair, the minutes taker, and the holder of the
 Golden Shoebox containing our capital.
 
-3. Why be a tax-exempt non-profit? Why not just ... do your thing?
+4. Why be a tax-exempt non-profit? Why not just ... do your thing?
 ---
 
 We want to be able to accept donations, seek grants, and manage our collective
@@ -52,7 +77,7 @@ will not be able to exist to serve its purpose. These bylaws would exist in
 some form or fashion regardless of statute toward that end.
 
 
-4. Where can I find out more?
+5. Where can I find out more?
 ---
 
 [Go to our website!][1] Or, send an email to <austinfreeskool@gmail.com>.
