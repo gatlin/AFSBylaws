@@ -176,6 +176,11 @@ reimbursed for expenses incurred in attending meetings of the Board or any
 committee of the Board, subject to applicable policies and procedures on
 reimbursement adopted by the Board.
 
+### 3.12 Powers granted to the Board of Directors
+
+Any power not explicitly granted to the Board of Directors in these Bylaws is
+explicitly granted to the general membership.
+
 4. Officers, Agents, and Employees
 ---
 
@@ -249,6 +254,12 @@ All powers and duties of the Treasurer shall be subject to the provisions of
 the Articles of Incorporation and these Bylaws, and to review and confirmation by
 the Board as determined from time to time by the Board.
 
+### 4.7 Policies and Procedures
+
+The Board shall have the authority to adopt such policies and procedures for
+meetings of the Board of Directors as the Board may from time to time
+determine, as the activities of AFS may require.
+
 5. Miscellaneous Provisions
 ---
 
@@ -268,10 +279,6 @@ time.
 The fiscal year of AFS shall be fixed, and may be changed from time to time, by
 resolution of the Board.
 
-### 5.3 Policies and Procedures
-
-The Board shall have the authority to adopt such policies and procedures as the
-Board may from time to time determine, or as the activities of AFS may require.
 
 ### 5.4 Parliamentary Authority
 
